@@ -1,5 +1,5 @@
 # -*- coding:utf-8 -*-
-import sys, os
+import os
 from http.server import BaseHTTPRequestHandler, HTTPServer
 
 

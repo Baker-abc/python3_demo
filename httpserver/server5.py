@@ -1,7 +1,7 @@
 # -*- coding:utf-8 -*-
-import sys, os
-from http.server import BaseHTTPRequestHandler, HTTPServer
+import os
 import subprocess
+from http.server import BaseHTTPRequestHandler, HTTPServer
 
 
 class ServerException(Exception):

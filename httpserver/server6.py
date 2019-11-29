@@ -1,5 +1,6 @@
 # -*- coding:utf-8 -*-
-import sys, os, subprocess
+import os
+import subprocess
 from http.server import BaseHTTPRequestHandler, HTTPServer
 
 

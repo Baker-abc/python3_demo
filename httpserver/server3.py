@@ -1,5 +1,5 @@
+import os
 from http.server import BaseHTTPRequestHandler, HTTPServer
-import sys, os
 
 
 class RequestHandler(BaseHTTPRequestHandler):
